@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* DPhil in Computer Science, University of Oxford, 2023-2028 (expected)
+* MMathCompsci in Mathematics and Computer Science, University of Oxford, 2019-2023
 
 Work experience
 ======
@@ -59,6 +58,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
