@@ -42,7 +42,7 @@ Skills
 * MATLAB
 * Haskell
 * Scala
-* \LaTeX
+* LaTeX
 
 Publications
 ======
