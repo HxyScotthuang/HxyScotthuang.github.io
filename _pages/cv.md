@@ -38,7 +38,7 @@ Skills
 * Python   
   * PyTorch
   * Tensorflow
-  * Triton
+  * Triton (Huge Recommendation! For a faster python code!)
 * MATLAB
 * Haskell
 * Scala
