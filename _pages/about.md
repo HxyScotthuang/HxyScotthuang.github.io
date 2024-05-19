@@ -14,5 +14,8 @@ My main research interest is largely focused on **Graph Representation Learning*
 Before I got into graph learning, I had been working on **Evolutionary Algorithms** and **Genetic Programming** with grateful support from [Dr. Yu Zhou](https://yzhouszu.github.io/) in Shenzhen University. 
 
 
-# Resume
-<ul>{% include archive-single-cv.html %}</ul>
+# News!
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
