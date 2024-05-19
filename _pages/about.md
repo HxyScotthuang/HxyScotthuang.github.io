@@ -11,6 +11,8 @@ Hi there! Welcome to the personal website of Xingyue Huang (黄星越)! I am a D
 
 My main research interest is largely focused on **Graph Representation Learning**, **Knowledge graphs/hypergraphs**, and **Knowledge representaiton learning**. I am also interested in **Geometric Deep Learning**, and **Deep Learning** in general. 
 
-![](/images/meme.jpg)
-
 Before I got into graph learning, I had been working on **Evolutionary Algorithms** and **Genetic Programming** with grateful support from [Dr. Yu Zhou](https://yzhouszu.github.io/) in Shenzhen University. 
+
+
+# Resume
+<ul>{% include archive-single-cv.html %}</ul>
