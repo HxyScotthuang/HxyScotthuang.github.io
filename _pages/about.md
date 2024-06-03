@@ -14,6 +14,13 @@ My main research interest is largely focused on **Graph Representation Learning*
 Before I got into graph learning, I had been working on **Evolutionary Algorithms** and **Genetic Programming** with grateful support from [Dr. Yu Zhou](https://yzhouszu.github.io/) in Shenzhen University. 
 
 
+# Status
+
+I am looking for **internship opportunity**, primarily focusing on researching position with deep learning, knowledge graphs, graph neural networks(GNNs), etc. 
+
+I am also excited to **collaborate projects** related to graph neural networks(GNNs), knowledge graphs, and deep learning in general!
+
+
 # News!
 
 {% for post in site.portfolio %}
