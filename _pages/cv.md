@@ -1,14 +1,14 @@
 ---
 layout: archive
 title: "CV"
-permalink: 
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-You can also download my CV [here](_pages/files/CV_Xingyue_Huang.pdf)!
+You can also download my CV [here](CV_Xingyue_Huang.pdf)!
 
 Education
 ======
