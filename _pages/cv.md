@@ -12,7 +12,7 @@ You can also download my CV [here](CV_Xingyue_Huang.pdf)!
 
 Education
 ======
-* DPhil in Computer Science, University of Oxford, 2023-2027 (expected)
+* DPhil in Computer Science, University of Oxford, 2023-2026 (expected)
 * MMathCompsci in Mathematics and Computer Science, University of Oxford, 2019-2023
 
 Work experience
