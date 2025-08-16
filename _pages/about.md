@@ -7,21 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to the personal website of Xingyue Huang (黄星越)! I am a DPhil in Computer Science studying in University of Oxford under supervision of [Professor Michael M. Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [Dr. İsmail İlkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/).  Previously, I obtained my undergraduate master degree on Mathematics and Computer Science from University of Oxford with Distinction. 
+Welcome! 👋
 
-My main research interest is largely focused on **Graph Representation Learning**, **Knowledge graphs/hypergraphs**, and **Knowledge representation learning**. I am also interested in **Geometric Deep Learning**, and **Deep Learning** in general. 
+I'm **Xingyue Huang (黄星越)**, a DPhil student in Computer Science at the University of Oxford, supervised by [Prof. Michael M. Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [Dr. İsmail İlkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/).
 
-Before I got into graph learning, I had been working on **Evolutionary Algorithms** and **Genetic Programming** with grateful support from [Dr. Yu Zhou](https://yzhouszu.github.io/) in Shenzhen University. 
+Previously, I earned my MMathCompSci (Mathematics and Computer Science) from Oxford with Distinction.
 
+---
 
-# Status
+## 🧑‍💻 About Me
+- Passionate about **Graph Representation Learning**, **Knowledge Graphs/Hypergraphs**, and **Geometric Deep Learning**
+- Also interested in **Large Language Models (LLMs)**, **Multi-Agent Systems (MAS)**, and **Mathematical Reasoning**
+- Early work in **Evolutionary Algorithms** and **Genetic Programming** with [Dr. Yu Zhou](https://yzhouszu.github.io/) at Shenzhen University
 
-I am looking for **internship opportunity**, primarily focusing on researching position with large language models (LLMs), deep learning, knowledge graphs, graph neural networks(GNNs), etc. 
+## 🚀 Status
+- Open to **internship opportunities** and **collaboration** on projects related to LLMs, GNNs, and knowledge graphs
 
-I am also excited to **collaborate on projects** related to LLMs, graph neural networks(GNNs), knowledge graphs, and deep learning in general!
-
-
-# News!
+## 📰 News
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}

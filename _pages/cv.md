@@ -44,6 +44,7 @@ Professional Experience
   * Developed an object detection system for video subtitle-detection with Faster-RCNN model.
   * Conducted semantic analysis on OCR-detected titles to assess the quality of video descriptions.
   * Improved accuracy of object detection and classification by 10% and were incorporated into production.
+
 Skills
 ======
 * Python   
@@ -54,30 +55,6 @@ Skills
 * Haskell
 * Scala
 * LaTeX
-
-Selected Publications
-======
-* **First Author** of HYPER: A Foundation Model for Inductive Link Prediction with Knowledge Hypergraphs  
-  Under Review for NeurIPS 2025  
-  First foundation model for link prediction with knowledge hypergraphs
-* **First Author** of Distilling Tool Knowledge into Language Models via Back-Translated Traces  
-  ICML-MAS 2025  
-  A systematic pipeline to distill tool-integrated-reasoning traces to LLM for better CoT performance
-* **First Author** of How Expressive are Knowledge Graph Foundation Models?  
-  ICML 2025  
-  Expressivity study of knowledge graph foundation model and developing framework equipped with arbitrary motifs
-* **First Author** of Link Prediction with Relational Hypergraphs  
-  TMLR  
-  Applying conditional message passing for link prediction on fully relational data with expressiveness guarantee
-* **Author** of Cooperative Graph Neural Networks  
-  ICML 2024  
-  A dynamic and flexible message-passing paradigm in which each node can choose a different communication strategy
-* **First Author** of A Theory of Link Prediction via Relational Weisfeiler-Leman on Knowledge Graph  
-  NeurIPS 2023  
-  Theoretical expressiveness study for advanced link prediction models on knowledge graphs
-* **First Author** of Feature Selection of High Dimensional Data by Adaptive Potential Particle Swarm Optimization  
-  IEEE CEC 2019  
-  Proposing a novel Particle Swarm Optimization with feature pre-filtering and adaptive cut-point selection.
 
 Teaching
 ======
