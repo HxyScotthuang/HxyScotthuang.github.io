@@ -16,9 +16,9 @@ Before I got into graph learning, I had been working on **Evolutionary Algorithm
 
 # Status
 
-I am looking for **internship opportunity**, primarily focusing on researching position with deep learning, knowledge graphs, graph neural networks(GNNs), etc. 
+I am looking for **internship opportunity**, primarily focusing on researching position with large language models (LLMs), deep learning, knowledge graphs, graph neural networks(GNNs), etc. 
 
-I am also excited to **collaborate on projects** related to graph neural networks(GNNs), knowledge graphs, and deep learning in general!
+I am also excited to **collaborate on projects** related to LLMs, graph neural networks(GNNs), knowledge graphs, and deep learning in general!
 
 
 # News!
