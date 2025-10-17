@@ -21,10 +21,14 @@ Previously, I earned my MMathCompSci (Mathematics and Computer Science) from Oxf
 - Early work in **Evolutionary Algorithms** and **Genetic Programming** with [Dr. Yu Zhou](https://yzhouszu.github.io/) at Shenzhen University
 
 ## 🚀 Status
-- Open to **internship opportunities** and **collaboration** on projects related to LLMs, GNNs, and knowledge graphs
+- Actively seeking a **full-time Research Scientist** role (LLMs, GNNs, Knowledge Graphs)
+- Open to **collaboration** on projects related to LLMs, GNNs, and knowledge graphs
 
 ## 📰 News
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+
+## 🛠️ Service
+- Reviewer: **NeurIPS 2025**, **ICLR 2026**
