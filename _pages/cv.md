@@ -28,7 +28,7 @@ Professional Experience
 ======
 
 * **Snap Inc.**  
-  Research Intern, User Modeling & Personalization (UMaP) Research Team (06/2025 – 10/2025), Bellevue, United States
+  Research Intern, User Modeling & Personalization (UMaP) Research Team (06/2025 – 12/2025), Bellevue, United States
   * Focused on language modeling research.
   * Researched sparse attention to alleviate attention dispersion for long-context understanding of LLM.
   * Investigated methods for adapting large language models to generate embeddings for retrieval tasks.
@@ -62,3 +62,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Service
+======
+* Reviewer: NeurIPS 2025; ICLR 2026
+
