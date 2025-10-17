@@ -26,7 +26,8 @@ Previously, I earned my MMathCompSci (Mathematics and Computer Science) from Oxf
 
 ## 📰 News
 
-{% for post in site.portfolio %}
+{% assign news = site.portfolio | sort: 'date' | reverse %}
+{% for post in news %}
   {% include archive-single.html %}
 {% endfor %}
 

@@ -30,6 +30,6 @@ tags:
   - "Reinforcement Learning"
 ---
 
-ReaL-TG trains language models to explore temporal graph structure and generate explanations that are validated automatically and by human evaluators.
+ReaL-TG is a reinforcement learning framework that fine-tunes language models for explainable link forecasting on temporal graphs. It encourages models to develop reasoning strategies by exploring graph structures and learning to generate high-quality explanations. Using a multi-task, multi-objective reward design, ReaL-TG optimizes both forecasting accuracy and explanation quality, where the latter is assessed via automatic graph-based verification and model-based judges. Our framework yields strong forecasting performance and outperforms instruction-tuned LLMs in explanation quality while maintaining comparably high faithfulness. Human evaluations on the HiEve dataset further confirm the superiority of ReaL-TG in producing clear, coherent, and insightful explanations, with moderate faithfulness.
 
 
