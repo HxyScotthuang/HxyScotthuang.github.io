@@ -3,7 +3,7 @@ title: "HYPER: A Foundation Model for Inductive Link Prediction with Knowledge H
 collection: publications
 type: "paper"
 permalink: https://arxiv.org/abs/2506.12362
-venue: "ICLR 2026"
+venue: "ICLR"
 date: 2025-06-14
 authors: Xingyue Huang, Mikhail Galkin, Michael M. Bronstein, İsmail İlkan Ceylan
 ---

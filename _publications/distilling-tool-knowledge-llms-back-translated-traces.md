@@ -3,7 +3,7 @@ title: "Distilling Tool Knowledge into Language Models via Back-Translated Trace
 collection: publications
 type: "paper"
 permalink: https://arxiv.org/abs/2506.19171
-venue: "Workshop in Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges and Futures, ICML 2025"
+venue: "Workshop in Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges and Futures, ICML"
 date: 2025-07-01
 ---
 

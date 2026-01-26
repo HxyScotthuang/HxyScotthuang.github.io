@@ -4,7 +4,7 @@ collection: publications
 permalink: https://arxiv.org/abs/2509.03059
 excerpt: "The Loong Project provides an open framework (LoongBench + LoongEnv) to generate and verify synthetic CoT data across many domains, enabling RL with verifiable rewards."
 date: 2025-09-03
-venue: 'NeurIPS 2025 LAW'
+venue: 'NeurIPS LAW'
 slidesurl: 'https://arxiv.org/abs/2509.03059'
 paperurl: 'https://arxiv.org/pdf/2509.03059'
 citation: 'X Huang et al., Loong: Synthesize Long Chain-of-Thoughts at Scale through Verifiers, NeurIPS 2025 LAW, 2025'

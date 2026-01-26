@@ -3,8 +3,8 @@ title: "Flock: A Knowledge Graph Foundation Model via Learning on Random Walks"
 collection: publications
 permalink: https://arxiv.org/abs/2510.01510
 excerpt: "Flock introduces probabilistic node–relation equivariance and learns from random walks to achieve strong zero-shot link prediction across diverse knowledge graphs."
-date: 2025-10-01
-venue: 'ICLR 2026'
+date: 2026-01-01
+venue: 'ICLR'
 slidesurl: 'https://arxiv.org/abs/2510.01510'
 paperurl: 'https://arxiv.org/pdf/2510.01510'
 citation: 'J Kim, X Huang, K Olejniczak, K Min, M Bronstein, S Hong, İİ Ceylan, Flock: A Knowledge Graph Foundation Model via Learning on Random Walks, ICLR 2026, 2025'

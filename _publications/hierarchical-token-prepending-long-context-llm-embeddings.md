@@ -4,7 +4,7 @@ collection: publications
 permalink: https://arxiv.org/abs/2511.14868
 excerpt: "Hierarchical Token Prepending (HTP) partitions the input into blocks and prepends block-level summary tokens to subsequent blocks, creating multiple pathways for backward information flow, achieving consistent performance gains across 11 retrieval datasets and 30 general embedding benchmarks."
 date: 2025-11-18
-venue: 'Under Review'
+venue: 'arXiv'
 slidesurl: 'https://arxiv.org/abs/2511.14868'
 paperurl: 'https://arxiv.org/pdf/2511.14868'
 citation: 'X Ding, X Huang, M Ju, L Collins, Y Liu, L Akoglu, N Shah, T Zhao, Hierarchical Token Prepending: Enhancing Information Flow in Decoder-based LLM Embeddings, arXiv:2511.14868, 2025'
