@@ -22,7 +22,6 @@ Previously, I earned my MMathCompSci (Mathematics and Computer Science) from Oxf
 
 ## 🚀 Status
 - Actively seeking a **full-time Research Scientist** role (LLMs, GNNs, Knowledge Graphs)
-- Open to **collaboration** on projects related to LLMs, GNNs, and knowledge graphs
 
 ## 📰 News
 

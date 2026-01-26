@@ -3,7 +3,7 @@ title: "Tutorial on Graph Foundation Models"
 collection: teaching
 type: "Tutorial"
 permalink: https://github.com/HxyScotthuang/Graph-Foundation-Models-LoG-2025-Tutorial
-venue: "Learning on Graphs Conference (LoG) 2025"
+venue: "Learning on Graphs Conference (LoG)"
 date: 2025-12-13
 location: "Online"
 ---
