@@ -4,10 +4,10 @@ collection: publications
 permalink: https://arxiv.org/abs/2601.12145
 excerpt: "Threshold Differential Attention (TDA) is a sink-free attention mechanism that achieves ultra-sparsity and improved robustness at longer sequence lengths without the computational overhead of projection methods or the performance degradation caused by noise accumulation of standard rectified attention."
 date: 2026-01-17
-venue: 'arXiv'
+venue: 'ACL 2026'
 slidesurl: 'https://arxiv.org/abs/2601.12145'
 paperurl: 'https://arxiv.org/pdf/2601.12145'
-citation: 'X Huang, X Ding, M Ju, Y Liu, N Shah, T Zhao, Threshold Differential Attention for Sink-Free, Ultra-Sparse, and Non-Dispersive Language Modeling, arXiv:2601.12145, 2026'
+citation: 'X Huang, X Ding, M Ju, Y Liu, N Shah, T Zhao, Threshold Differential Attention for Sink-Free, Ultra-Sparse, and Non-Dispersive Language Modeling, ACL 2026'
 authors:
   - "Xingyue Huang"
   - "Xueying Ding"

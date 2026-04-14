@@ -20,9 +20,6 @@ Previously, I earned my MMathCompSci (Mathematics and Computer Science) from Oxf
 - Also interested in **Large Language Models (LLMs)**, **Multi-Agent Systems (MAS)**, and **Mathematical Reasoning**
 - Early work in **Evolutionary Algorithms** and **Genetic Programming** with [Dr. Yu Zhou](https://yzhouszu.github.io/) at Shenzhen University
 
-## 🚀 Status
-- Actively seeking a **full-time Research Scientist** role (LLMs, GNNs, Knowledge Graphs)
-
 ## 📰 News
 
 {% assign news = site.portfolio | sort: 'date' | reverse %}
