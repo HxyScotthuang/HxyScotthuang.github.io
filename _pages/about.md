@@ -28,4 +28,5 @@ Previously, I earned my MMathCompSci (Mathematics and Computer Science) from Oxf
 {% endfor %}
 
 ## 🛠️ Service
-- Reviewer: **NeurIPS 2025**, **ICLR 2026**
+- Reviewer: **NeurIPS 2025 Top Reviewer**, **ICML 2026 Silver Reviewer**, **ICLR 2026**
+- Workshop Organizer: **NeurIPS 2025 SEA**, **ICML 2026 GFM**
