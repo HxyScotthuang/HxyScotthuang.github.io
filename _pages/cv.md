@@ -27,10 +27,22 @@ Education
 Professional Experience
 ======
 
+* **Meta Platforms Inc.**  
+  Research Scientist Intern (06/2026 – 09/2026)
+  * Developed an LLM-based survey imputation system for advertiser campaign measurement, modeling responses from 5k advertisers across 18 questions and 10 weekly waves.
+  * Reduced aggregate distributional error by 3.4×, from 26.3% to 7.8%, using quantile-mapped KNN on Llama 4.
+  * Designed LLM-XGBoost ensemble methods achieving the best distributional fidelity, reducing PPE to 6.7% and improving accuracy by 1.7% by using LLM predictions as tabular features.
+
+* **AITHYRA Research Institute for Biomedical Artificial Intelligence**  
+  Predoctoral Fellow (03/2026 – 05/2026)
+  * Developed RelAgent, an LLM-based autonomous data scientist that searches over SQL feature programs and model choices for relational learning.
+  * Achieved rank 1.00 on RelBenchV2 and 4DBInfer classification benchmarks, improving average AUROC over KumoRFM-v2 from 85.91 to 87.32 and from 79.96 to 81.38, respectively.
+  * Designed deterministic inference without further LLM calls, yielding interpretable SQL-defined feature maps paired with classical predictors for scalable database deployment.
+
 * **Snap Inc.**  
-  Research Intern (UMaP) (06/2025 – 10/2025)
+  Research Intern (06/2025 – 10/2025)
   * Developed Threshold Differential Attention (TDA), a sink-free, ultra-sparse attention mechanism for long-context LLMs, achieving >99% exact zeros while matching Softmax accuracy on QA benchmarks.
-  * Demonstrated long-context robustness on the SCROLLS benchmark and passkey-retrieval stress tests, where TDA outperformed Softmax by ~2.5× at 4k-token contexts.
+  * Pre-trained large language models from scratch and demonstrated long-context robustness on SCROLLS passkey retrieval, where TDA outperformed Softmax by approximately 2.5× at 4k-token contexts.
   * Co-authored Hierarchical Token Prepending, improving long-document embeddings in decoder-only LLMs via block-level summary tokens, with 5% gains across 11 retrieval datasets and 30 embedding benchmarks.
 
 * **Eigent-AI**  
@@ -39,25 +51,25 @@ Professional Experience
   * Used back-translated tool trajectories for supervised fine-tuning, improving math benchmark accuracy by 5%.
   * Led the Loong verifier-driven RL framework for long chain-of-thought synthesis.
 
-* **Alibaba Group**  
-  Machine Learning Engineer Intern (07/2021 – 09/2021)
-  * Developed an object detection system for video subtitle-detection with Faster-RCNN model.
-  * Improved accuracy of object detection and classification by 10% and were incorporated into production.
-
-Technical Skills
-======
-* Systems & Infrastructure: Triton, LLM architecture design, multi-agent systems, post-training
-* ML & Data: PyTorch, HuggingFace, CAMEL-AI, SQL, DuckDB, pandas, torch-geometric
-
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Services
-======
-* Reviewer: NeurIPS 2025 Top Reviewer · ICML 2026 Silver Reviewer · ICLR 2026
-* Workshop Organizer: NeurIPS 2025 SEA, ICML 2026 GFM
-* Talks: Tutorial on Graph Foundation Models (LoG 2025) · Relational Hypergraphs (TU Wien Guest Lecture on GRL 2026/03/19, LoG 2024 Oxford Meetup)
 
+Awards
+======
+* Oriel Student Scholarships for Academic Merit (2021 – 2023)
+* NeurIPS 2025 Top Reviewer Award
+* ICML 2026 Silver Reviewer Award
+
+Service
+======
+* Reviewer: NeurIPS 2025 · ICML 2026 · ICLR 2026
+* Lead Organizer: Workshop on Graph Foundation Models, ICML 2026
+* Organizer: Scaling Environment of Agents (SEA) Workshop, NeurIPS 2025
+* Invited Talks:
+  * RelAgent: LLM Agents as Data Scientists for Relational Learning — Stanford University; CAMEL-AI
+  * Graph Foundation Models Tutorial — Learning on Graphs 2025
+  * How Expressive are Knowledge Graph Foundation Models? — Snap Inc., 2025
+  * Relational Hypergraphs for Knowledge Graph Foundation Models — TU Wien, 2026

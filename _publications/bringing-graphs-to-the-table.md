@@ -1,13 +1,13 @@
 ---
-title: "Bringing Graphs to the Table: Zero-shot Node Classification via Tabular Foundation Models"
+title: "Of Graphs and Tables: Zero-Shot Node Classification with Tabular Foundation Models"
 collection: publications
 permalink: https://arxiv.org/abs/2509.07143
 excerpt: "Reformulates node classification as a tabular problem and leverages tabular foundation models for zero-shot node classification."
 date: 2025-10-08
-venue: 'NeurIPS NPGML Workshop'
+venue: 'NeurIPS NPGML Workshop (Oral)'
 slidesurl: 'https://arxiv.org/abs/2509.07143'
 paperurl: 'https://arxiv.org/pdf/2509.07143'
-citation: 'A Hayler, X Huang, İİ Ceylan, M Bronstein, B Finkelshtein, Bringing Graphs to the Table: Zero-shot Node Classification via Tabular Foundation Models, arXiv:2509.07143, 2025'
+citation: 'A Hayler, X Huang, İİ Ceylan, M Bronstein, B Finkelshtein, Of Graphs and Tables: Zero-Shot Node Classification with Tabular Foundation Models, Workshop on New Perspectives in Graph Machine Learning, NeurIPS 2025 (Oral)'
 authors:
   - "Adrian Hayler"
   - "Xingyue Huang"

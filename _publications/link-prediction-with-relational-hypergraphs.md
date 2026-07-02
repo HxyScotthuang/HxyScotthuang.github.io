@@ -7,6 +7,6 @@ date: 2024-01-28
 venue: 'TMLR'
 slidesurl: 'https://arxiv.org/abs/2402.04062'
 paperurl: 'https://arxiv.org/pdf/2402.04062'
-citation: 'X Huang, MR Orth, P Barceló, MM Bronstein, İİ Ceylan, Link Prediction with Relational Hypergraphs, TMLR, 2024'
+citation: 'X Huang, MR Orth, P Barceló, MM Bronstein, İİ Ceylan, Link Prediction with Relational Hypergraphs, TMLR, 2025'
 ---
 

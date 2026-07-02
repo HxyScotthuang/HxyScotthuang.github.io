@@ -4,10 +4,10 @@ collection: publications
 permalink: https://arxiv.org/abs/2605.07840
 excerpt: "RelAgent is an LLM-based autonomous data scientist for relational learning that searches over SQL feature programs and predictive models, then deploys fast, deterministic, and interpretable predictors without LLM calls at inference time."
 date: 2026-05-08
-venue: 'arXiv'
+venue: 'ICML GFM Workshop'
 slidesurl: 'https://arxiv.org/abs/2605.07840'
 paperurl: 'https://arxiv.org/pdf/2605.07840'
-citation: 'X Huang, L Tichelman, J Kim, K Olejniczak, İİ Ceylan, RelAgent: LLM Agents as Data Scientists for Relational Learning, arXiv:2605.07840, 2026'
+citation: 'X Huang, L Tichelman, J Kim, K Olejniczak, İİ Ceylan, RelAgent: LLM Agents as Data Scientists for Relational Learning, Workshop on Graph Foundation Models at ICML, 2026'
 authors:
   - "Xingyue Huang"
   - "Louis Tichelman"
