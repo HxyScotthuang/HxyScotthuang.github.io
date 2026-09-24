@@ -27,5 +27,5 @@ My work has been published at **ACL**, **NeurIPS**, **ICML**, and **ICLR**. I'm 
 {% endfor %}
 
 ## 🛠️ Service
-- Reviewer: **NeurIPS 2025 Top Reviewer**, **ICML 2026 Silver Reviewer**, **ICLR 2026**
+- Reviewer: **NeurIPS 2025 Top Reviewer**, **NeurIPS 2026**, **ICML 2026 Silver Reviewer**, **ICLR 2026, 2027**, **TMLR**
 - Workshop Organizer: **NeurIPS 2025 SEA**, **ICML 2026 GFM**

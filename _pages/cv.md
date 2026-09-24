@@ -19,7 +19,7 @@ Education
 ======
 * **University of Oxford**  
   DPhil in Computer Science (2023 – 2026)  
-  Advisors: Prof. Michael Bronstein (DeepMind Chair of AI), Prof. Ismail Ceylan
+  Advisors: Prof. Michael Bronstein (DeepMind Chair of AI), Prof. Ismail Ilkan Ceylan
 * **University of Oxford**  
   MMathCompSci in Mathematics and Computer Science (2019 – 2023)  
   Graduated with Distinction
@@ -65,8 +65,8 @@ Awards
 
 Service
 ======
-* Reviewer: NeurIPS 2025 · ICML 2026 · ICLR 2026
-* Lead Organizer: Workshop on Graph Foundation Models, ICML 2026
+* Reviewer: NeurIPS 2025, 2026 · ICML 2026 · ICLR 2026, 2027 · TMLR
+* Lead Organizer: Workshop on Graph Foundation Models: A New Era of Graph Machine Learning, ICML 2026
 * Organizer: Scaling Environment of Agents (SEA) Workshop, NeurIPS 2025
 * Invited Talks:
   * RelAgent: LLM Agents as Data Scientists for Relational Learning — Stanford University; CAMEL-AI
